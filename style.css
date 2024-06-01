@@ -1,13 +1,14 @@
-@media scream and (max-width: 569px) {body {
+
+  body {
   background: #a80077;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to bottom, #66ff00, #a80077);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to bottom, #66ff00, #a80077); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-}
+
 
 }
   
-@media scream and (min-width: 570px) {
+@media (max-width: 570px) {
   
   body {
     background-color: #13171F;
